@@ -1,4 +1,4 @@
-# Matlab-class-project
+# Vibrations-class-project
 Matlab code to simulate the vibration of a rotating unbalance system.
 
 Question: Simulate the vibration of rotating unbalance system with superimposing the motion parameters in the video.
